@@ -1,4 +1,4 @@
-# mrcorpt-zen
+# mrcorpt-games-zen
 
 Hide distracting UI elements in mrcorpt.js
 
