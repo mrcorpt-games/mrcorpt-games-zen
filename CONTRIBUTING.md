@@ -1,6 +1,6 @@
-# Contributing to mrcorpt-zen
+# Contributing to mrcorpt-games-zen
 
-Thank you for your interest in contributing to `mrcorpt-zen`! This document explains the preferred process for contributing code, reporting issues, and suggesting improvements.
+Thank you for your interest in contributing to `mrcorpt-games-zen`! This document explains the preferred process for contributing code, reporting issues, and suggesting improvements.
 
 ## How to Contribute
 
