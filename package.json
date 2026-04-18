@@ -12,6 +12,5 @@
   "dependencies": {},
   "scripts": {
     "test": "node -c zen.js"
-  },
-  "license": "MIT"
+  }
 }
